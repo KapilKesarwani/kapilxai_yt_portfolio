@@ -1,2 +1,2 @@
-# kapilxai_yt_portfolio
-Here is my youtube portfolio
+# Kapil Portfolio
+Here is my personal portfolio
